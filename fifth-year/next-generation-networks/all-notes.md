@@ -3,12 +3,10 @@
 
 # All Notes
 
-## Week 1
-
-### Introduction
+## Introduction
 
 * This is what the internet looks like:  
-<img width="300" src="https://github.com/nating/personal-notes/blob/master/fifth-year/next-generation-networks/images/internet-structure.png"/>
+<img width="500" src="https://github.com/nating/personal-notes/blob/master/fifth-year/next-generation-networks/images/internet-structure.png"/>
 
 * There are tiers of ISPs.
 
@@ -40,7 +38,7 @@
 
 ---
 
-### Optical Transmission Technology
+## Optical Transmission Technology
 
 * The typical path loss of optical fibre is 0.2dB/Km.
 
@@ -81,7 +79,9 @@
 
 *TODO: The material gets quite heavy here, and I was not sure that it was beneficial to take down such in depth physics, but perhaps it is necessary to know the material at the end of this section in such detail.*
 
-### Optical Transmitters and Receivers
+---
+
+## Optical Transmitters and Receivers
 
 * **Laser** stands for Light amplification by stimulated emission of radiation.
 
@@ -103,7 +103,9 @@
 
 * The higher sensitivity of coherent receivers allows for different modulation schemes with higher spectral efficiency.
 
-### Concepts of Optical Link Design
+---
+
+## Concepts of Optical Link Design
 
 * **BER** stands for bit error rate.
 
@@ -128,11 +130,9 @@
 
 ---
 
-## Week 2
+## Wireless Channel Impairments & Mitigation Techniques
 
-### Wireless Channel Impairments & Mitigation Techniques
-
-#### Impairments
+### Impairments
 
 * **Path Loss** is the attenuation of signal due to travelling between the transmitter and the receiver.
 
@@ -152,7 +152,7 @@
 
 * **SNR** (Signal to Noise ratio) is often used as a metric in the assessment of channel quality.
 
-#### Mitigation Techniques
+### Mitigation Techniques
 
 * **Diversity** is combining independently received versions of the desired signal.
 
@@ -188,7 +188,7 @@
 
 ---
 
-### Overview of Wireless Networks
+## Overview of Wireless Networks
 
 * Wireless networks can be **Nomadic**, where every node is relatively stationary, or **Mobile** where nodes move around.
 
@@ -232,7 +232,7 @@ Here is a reference for the OSI networking model:
 
 * Transmissions with low frequencies attenuate less with distance. This makes low frequencies ideal for long range transmissions.
 
-#### The Complementarity of Wired & Wireless Systems
+### The Complementarity of Wired & Wireless Systems
 
 * "Wired and Wireless networks can be thought of as complementary."
 
@@ -246,6 +246,136 @@ Here is a reference for the OSI networking model:
 
 ---
 
-### Cognitive Radio
+# Cognitive Radio
 
-...
+* **Software Defined Radio** is a collection of hardware and software components that enable reconfigurable systems for wireless networks and user terminals.
+
+* A **Cognitive Radio** is a radio that is aware of and can sense its environment, and make decisions about how to operate based on this information and its pre-defined objectives.
+
+* A **Cognitive Radio** is also defined as a A transceiver that is aware, adaptive, and capable of learning from experience.
+
+* A cognitive radio is aware of:
+  * The RF environment
+  * Its own capabilities
+  * The policies it needs to follow
+  * Local and Global objectives
+  * Network conditions
+  * Other user's priorities and authorisations
+
+* A cognitive radio can adapt,
+  * Control of transmit power
+  * Selecting its dynamic waveform
+  * Accessing dynamic spectrum
+  * Routing
+  * Negotiating waveforms and protocols
+
+* A cognitive radio can learn,
+  * Having an experience-weighted lookup table.
+  * Using machine learning algorithms.
+
+The general elements of a cognitive radio are shown below:
+
+|Element|Components|
+|---|---|
+|Objectives|Maximise SNR and data rate|
+|Variables|Frequency of operation, Power, and Waveform|
+|Stimuli|Occupied bands, Signal strength, Neighbour list|
+|Policies|Allowed frequency bands for primary or secondary use|
+
+* The desirable features of a cognitive radio are:
+  * A wide band
+  * The ability to transmit any waveform
+  * A flexible architecture
+  * High performance
+  * Low power consumption
+  * Affordability
+  * Accessibility
+  * Straightforward to use and develop for
+  * Robust
+  * Access to suitable frequency spectrum segments for innovation and testing
+
+* The basis of a cognitive radio could be any software defined radio, since it builds on top of the components of an SDR.
+
+* Applications of cognitive radio include:
+  * Dynamic spectrum access (DSA)
+  * Cooperative medium access and communications
+  * Opportunistic switching between wireless networks
+  * Adaptive selection of available radio resources
+  * Increased interoperability of different systems (spectrum sharing)
+
+* A **Femtocell** is a small cellular base station for residential or business installation.
+
+* Femtocells are cheap and easy to deploy.
+
+* Femtocells can use the same frequency bands as the conventional cellular network, which means that they can cause interference with the WAN if the spectrum is not shared properly.
+
+* **Self-Organising Networks** can automatically extend, change, configure and optimise their topology, coverage, channel allocation and other operating parameters.
+
+---
+
+# Self Organising Networks
+
+### Characteristics of Complex Adaptive Systems
+
+|Characteristic|Meaning|
+|---|---|
+|1. Non-linearity|Small actions can generate large reactions.|
+|2. Emergence|Patterns which can not be planned or intended begin to appear due to collective behaviour.|
+|3. Dynamical systems change|Subsystem interactions are volatile and cascade rapidly.|
+|4. Adaptation|The system is a function of adaptation of elements to each other and their environment.|
+|5. Uncertainty|Processes and outcomes are unpredictable.|
+|6. Co-evolutionary|Agents self organise and connections emerge that become co-evolutionary as the agents evolve together.|
+
+* CA stands for cellular automata and ABM stands for agent based modelling.
+
+* Cellular Automata is to do with cellular lattices, and is a subject of mathematical study.
+
+* An ABM **Agent** is anything that makes a decision in a network.
+
+* An ABM agent has its own goals and behaviours.
+
+* An AGM agent operates in parallel with other ABM agents.
+
+* An ABM agent can be adaptive.
+
+* ABM agents have no central command.
+
+* ABM agents can exist on different levels.
+
+* The ABM agent cycle is a cycle of Act -> Get Stimulus -> Process Stimulus -> Act -> ...
+
+---
+
+# Spectrum Sharing
+
+* **License Exempt** bands are bands in which one can operate without a license.
+
+* License Exempt bands are good for:
+  * Facilitating market entry.
+  * Enabling niche applications or services to be addressed quickly and cheaply using existing technology and spectrum.
+  * Secure of tenure (users have no license-expiry date).
+  * Causing a reduction of congestion in licensed bands.
+  * The ability to extend the reach of fixed communication networks, by providing wireless local area connectivity in homes, businesses and at public traffic hotspots.
+
+* The benefits of license exempt bands from an end-user's perspective include:
+  * Convenience of less lengthy cables at home or work.
+  * The ability to connect to a fixed broadband rather than depending on the mobile network.
+  * Convenience of the ability to install low cost wireless alarm systems or to use beeper car keys.
+
+* There are rules for unlicensed bands. These rules keep it possible for multiple devices to co-exist in the band.
+
+* **CSMA/CA** makes facilitates good spectrum access for Wi-Fi, even when in highly contended environments.
+
+* **LTE** is 4G. It stands for Long-Term Evolution.
+
+* Wi-Fi is sort-of derived from Wireless Fidelity.
+
+* **Wi-Gig** (802.11ad) operates in the 60GHz millimetre waveband, and is intended for very high speed, short range applications.
+
+* Wi-Gig expected to deliver up to 7Gpbs over ranges of up to 10 meters.
+
+* 802.11ay is being developed by the IEEE and is aiming at data rates in excess of 30 Gbps, which would allow full movies to be downloaded in a second.
+
+* Nicola refers to 5GHz as *"The promised land of unlicensed capability"* (TODO not sure why...).
+
+* The 71-76GHz band is not relevant in the context of cognitive radio systems' coexistence with radar systems.
