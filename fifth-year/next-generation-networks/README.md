@@ -7,6 +7,8 @@ Next Generation Networks (CS4031 || CS7NS3) 2018
 
 *TODO: currently laid out as a file for each week of lectures, but probably to be changed to be laid out as specific module topics.*
 
+The scope of this course is *"How the access-metro-core network is shaped to support everything we are throwing at it"*.
+
 * [Week 1](https://github.com/nating/personal-notes/blob/master/fifth-year/next-generation-networks/week-1.md)
 * [Week 2](https://github.com/nating/personal-notes/blob/master/fifth-year/next-generation-networks/week-2.md)
 * [Week 3](https://github.com/nating/personal-notes/blob/master/fifth-year/next-generation-networks/week-3.md)
