@@ -15,10 +15,11 @@ Next Generation Networks (CS4031 || CS7NS3) 2018
   * [Overview of Wireless Networks](https://github.com/nating/personal-notes/blob/master/fifth-year/next-generation-networks/overview-of-wireless-networks.md)
   * [Cognitive Radio](https://github.com/nating/personal-notes/blob/master/fifth-year/next-generation-networks/cognitive-radio.md)
 * Week 3
-  * ...
+  * [Self Organising Networks](https://github.com/nating/personal-notes/blob/master/fifth-year/next-generation-networks/self-organising-networks.md)
+  * [Spectrum Sharing](https://github.com/nating/personal-notes/blob/master/fifth-year/next-generation-networks/spectrum-sharing.md)
 * Week 4
   * ...
 * Week 5
   * ...
 
-[All my notes in one document]() (in case you want to `cmd+f` a term x)
+[All my notes in one document](https://github.com/nating/personal-notes/blob/master/fifth-year/next-generation-networks/all-notes.md) (in case you want to `cmd+f` a term x)

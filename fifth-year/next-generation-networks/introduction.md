@@ -4,7 +4,7 @@
 # Introduction
 
 * This is what the internet looks like:  
-<img width="300" src="https://github.com/nating/personal-notes/blob/master/fifth-year/next-generation-networks/images/internet-structure.png"/>
+<img width="500" src="https://github.com/nating/personal-notes/blob/master/fifth-year/next-generation-networks/images/internet-structure.png"/>
 
 * There are tiers of ISPs.
 
