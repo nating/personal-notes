@@ -18,8 +18,12 @@ Next Generation Networks (CS4031 || CS7NS3) 2018
   * [Self Organising Networks](https://github.com/nating/personal-notes/blob/master/fifth-year/next-generation-networks/self-organising-networks.md)
   * [Spectrum Sharing](https://github.com/nating/personal-notes/blob/master/fifth-year/next-generation-networks/spectrum-sharing.md)
 * Week 4
-  * ...
+  * [5G](https://github.com/nating/personal-notes/blob/master/fifth-year/next-generation-networks/5G.md)
+  * [Fixed Access Networks](https://github.com/nating/personal-notes/blob/master/fifth-year/next-generation-networks/fixed-access-networks.md)
 * Week 5
-  * ...
+  * [Mobile architectures: LTE, LTE-A, LTE-A-PRO](https://github.com/nating/personal-notes/blob/master/fifth-year/next-generation-networks/mobile-architectures.md)
+  * [Wireless Local Area Networks: IEEE 802.11](https://github.com/nating/personal-notes/blob/master/fifth-year/next-generation-networks/wireless-local-area-networks.md)
+  * [Fixed Mobile Convergence](https://github.com/nating/personal-notes/blob/master/fifth-year/next-generation-networks/fixed-mobile-convergence.md)
+  * Network Virtualisation
 
 [All my notes in one document](https://github.com/nating/personal-notes/blob/master/fifth-year/next-generation-networks/all-notes.md) (in case you want to `cmd+f` a term x)

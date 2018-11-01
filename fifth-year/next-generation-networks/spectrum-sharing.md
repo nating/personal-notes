@@ -19,6 +19,12 @@
 
 * There are rules for unlicensed bands. These rules keep it possible for multiple devices to co-exist in the band.
 
+* **PMR** stands for personalised mobile radio.
+
+* **SRD** stands for short range device.
+
+* **DECT** stands for digital enhanced cordless telecommunications.
+
 * **CSMA/CA** makes facilitates good spectrum access for Wi-Fi, even when in highly contended environments.
 
 * **LTE** is 4G. It stands for Long-Term Evolution.
@@ -31,7 +37,9 @@
 
 * 802.11ay is being developed by the IEEE and is aiming at data rates in excess of 30 Gbps, which would allow full movies to be downloaded in a second.
 
-* Nicola refers to 5GHz as *"The promised land of unlicensed capability"* (TODO not sure why...).
+* In the US, they share the 3.5GHz band (but devices must be in a bit from the coastline).
+
+* Nicola refers to the 5GHz band as *"The promised land of unlicensed capability"* (TODO not sure why...).
 
 * The 71-76GHz band is not relevant in the context of cognitive radio systems' coexistence with radar systems.
 
