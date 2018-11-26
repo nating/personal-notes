@@ -25,5 +25,19 @@ Next Generation Networks (CS4031 || CS7NS3) 2018
   * [Wireless Local Area Networks: IEEE 802.11](https://github.com/nating/personal-notes/blob/master/fifth-year/next-generation-networks/wireless-local-area-networks.md)
   * [Fixed Mobile Convergence](https://github.com/nating/personal-notes/blob/master/fifth-year/next-generation-networks/fixed-mobile-convergence.md)
   * Network Virtualisation
+* Week 8
+  * [Internet of Things](https://github.com/nating/personal-notes/blob/master/fifth-year/next-generation-networks/internet-of-things.md)
+* Week 9
+  * [Metro Core Networks](https://github.com/nating/personal-notes/blob/master/fifth-year/next-generation-networks/metro-core-networks.md)
+  * [Wireless local area networks: HetNet, small cell deployments, & mmWave](https://github.com/nating/personal-notes/blob/master/fifth-year/next-generation-networks/wlans-etc.md)
+* Week 10
+  * [Queuing Systems](https://github.com/nating/personal-notes/blob/master/fifth-year/next-generation-networks/queuing-systems.md)
+  * [M/M/1 Queue](https://github.com/nating/personal-notes/blob/master/fifth-year/next-generation-networks/mm1-queue.md)
+* Week 11
+  * [Quality of Service](https://github.com/nating/personal-notes/blob/master/fifth-year/next-generation-networks/quality-of-service.md)
+  * [Other M/M/... Queues](https://github.com/nating/personal-notes/blob/master/fifth-year/next-generation-networks/other-mm-queues.md)
+* Week 12
+  * [M/G/1 Queue](https://github.com/nating/personal-notes/blob/master/fifth-year/next-generation-networks/mg1-queue.md)
+  * [Traffic Models](https://github.com/nating/personal-notes/blob/master/fifth-year/next-generation-networks/traffic-models.md)
 
 [All my notes in one document](https://github.com/nating/personal-notes/blob/master/fifth-year/next-generation-networks/all-notes.md) (in case you want to `cmd+f` a term x)
