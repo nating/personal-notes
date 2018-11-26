@@ -83,10 +83,10 @@ TODO: Racing a bit from here on
 
 * The Forwarding Equivalence Class is the set of all IP addresses that get mapped into the same MPLS tunnel.
 
-* Ethernet switches create start topologies.
+* Ethernet switches create star topologies.
 
 * **VLAN** stands for Virtual Local Area Network.
 
-* VLANs are implemented by adding another field to the header.
+* VLANs are implemented by adding another field to the Ethernet header.
 
-* The VLAN header in ethernet frames is a 802.1Q standard.
+* The VLAN header in ethernet frames is an 802.1Q standard.

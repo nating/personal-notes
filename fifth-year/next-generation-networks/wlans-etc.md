@@ -36,7 +36,7 @@ TODO: Skimming a bit here
 
 * **PAN** can stand for Personal Area Network.
 
-* **VANET** can stand for Vehicular Ad-Hoc network.
+* **VANET** stands for Vehicular Ad-Hoc network.
 
 * There is a huge amount of spectrum available in the mmWave bands.
 
