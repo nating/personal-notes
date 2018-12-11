@@ -5,12 +5,12 @@
 
 Information Retrieval and Web Search (CS7IS3) 2018
 
-* Introduction
-* Web Crawling
-* Link Analysis
-* Indexing
-* Ranking and Indexes
-* Query Processing
+* [Introduction](https://github.com/nating/personal-notes/blob/master/fifth-year/information-retrieval-and-web-search/introduction.md)
+* [Web Crawling](https://github.com/nating/personal-notes/blob/master/fifth-year/information-retrieval-and-web-search/web-crawling.md)
+* [Link Analysis](https://github.com/nating/personal-notes/blob/master/fifth-year/information-retrieval-and-web-search/link-analysis.md)
+* [Indexing](https://github.com/nating/personal-notes/blob/master/fifth-year/information-retrieval-and-web-search/indexing.md)
+* [Ranking and Indexes](https://github.com/nating/personal-notes/blob/master/fifth-year/information-retrieval-and-web-search/ranking-and-indexes.md)
+* [Query Processing](https://github.com/nating/personal-notes/blob/master/fifth-year/information-retrieval-and-web-search/query-processing.md)
 * Retrieval Models
   * Boolean Retrieval, VSM, and TF-IDF
   * Probabilistic Retrieval - BM25
