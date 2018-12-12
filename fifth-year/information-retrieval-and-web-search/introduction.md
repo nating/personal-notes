@@ -60,8 +60,7 @@
 
 * This is an image of the structure of an IR system:
 
-TODO: Fix link in this image tag below:
-<img width="300" src="" />
+<img width="300" src="./assets/structure-of-ir-system.png" />
 
 * **Postulates of Impotence** means to assume the existence of helplessness. In the context of this module, and why IR is hard, it means that an information need cannot be expressed independent of context.
 

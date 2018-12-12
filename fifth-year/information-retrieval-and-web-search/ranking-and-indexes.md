@@ -19,8 +19,7 @@
 
 * The simplest form of an inverted index just stores the documents that contain each word:
 
-TODO: fix the link in this image below:
-<img width="300" src="/naive-inverted-index.png"/>
+<img width="300" src="./assets/naive-inverted-index.png"/>
 
 * Each list in an inverted index is ordered by sentence number.
 
@@ -28,18 +27,15 @@ TODO: fix the link in this image below:
 
 * Inverted indexes can be extended to take into account term frequency within a document.
 
-TODO: fix the link in this image below:
-<img width="300" src="/extended-inverted-index.png" />
+<img width="300" src="./assets/extended-inverted-index.png" />
 
 * Inverted indexes can be further extended by taking into account the position of terms within a document, for further discrimination and phrase identification.
 
-TODO: fix the link in this image below:
-<img width="300" src="/extended-inverted-index-ii.png" />
+<img width="300" src="./assets/extended-inverted-index-ii.png" />
 
 * Adding feature weighting to inverted indexes also further extends them.
 
-TODO: fix the link in this image below:
-<img width="300" src="/extended-inverted-index-iii.png" />
+<img width="300" src="./assets/extended-inverted-index-iii.png" />
 
 * Special classes of documents have custom sections, such as a subject and body in an email. These are instances of **Document Fields**.
 
@@ -51,8 +47,7 @@ TODO: fix the link in this image below:
 
 * Posting lists and extent lists can be combined to figure out what section of a document terms occur:
 
-TODO: fix the link in this image below:
-<img width="300" src="/posting-list-extent-list-combination.png" />
+<img width="300" src="./assets/posting-list-extent-list-combination.png" />
 
 * Documents in the above example inverted indexes have all been ordered by number, but they can also be ordered by score / weight for each term, which can be useful for certain queries (such as ones that include only one word).
 
