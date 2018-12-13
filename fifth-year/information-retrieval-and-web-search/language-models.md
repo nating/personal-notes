@@ -35,7 +35,7 @@
 
 * Here is the formula used by the Query Likelihood Retrieval model in using the Unigram Language Model:
 
-<img width="250" src="./assets/query-likelihood.png" />
+<img width="700" src="./assets/query-likelihood.png" />
 
 * A problem with the idea of query likelihood retrieval model is that words that don't occur in a document would have a probability of zero and if a single query term is not in a document, its score will be zero.
 
@@ -47,7 +47,7 @@
 
 * The probability that the document language model gives to a term *t* which is in position *i* of query *q* is:
 
-<img width="250" src="./assets/document-language-model.png" />
+<img width="700" src="./assets/document-language-model.png" />
 
 *where α<sub>D</sub> is a coefficient controlling the probability assigned to unseen words.*
 
@@ -55,7 +55,7 @@
 
 * Overall, the above smoothing techniques add up to the following formula which is known as the **Jelinek-Mercer Method**. This is an estimate of the probability of a term occurring in a document in *Query Likelihood Ranking with linear interpolation smoothing*.
 
-<img width="250" src="./assets/document-language-model.png" />
+<img width="700" src="./assets/document-language-model.png" />
 
 * Small values of ⋋ produce less smoothing.
 

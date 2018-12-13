@@ -36,7 +36,7 @@
 
 * In VSM, a collection of *n* documents can be considered a matrix of *n* rows which represent documents and *t* columns which represent weights assigned to a term for a document.
 
-<img width="250" src="./assets/vector-space-model.png" />
+<img width="700" src="./assets/vector-space-model.png" />
 
 * The Vector Space Model can implement term weighting, ranking, and user feedback.
 
@@ -48,7 +48,7 @@
 
 * **Cosine Correlation** is the angle between two vectors:
 
-<img width="250" src="./assets/cosine-correlation.png" />
+<img width="700" src="./assets/cosine-correlation.png" />
 
 * **TF-IDF** stands for Term-Frequency - Inverse Document Frequency.
 
@@ -62,6 +62,6 @@
 
 **NOTE: To get the right calculations to match those in Seamus' notes, use 'ln()' on your calculator instead of 'log()'.**
 
-<img width="250" src="./assets/tf-idf.png" />
+<img width="700" src="./assets/tf-idf.png" />
 
 * VSM is typically used as a model of topical relevance.

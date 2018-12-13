@@ -13,11 +13,11 @@
 
 * Document-at-a-time query processing gets a score for each document, one at a time:
 
-<img width="250" src="./assets/document-at-a-time.png" />
+<img width="700" src="./assets/document-at-a-time.png" />
 
 * Term-at-a-time query processing gets a score for each document for each term, and then adds all those scores up:
 
-<img width="250" src="./assets/document-at-a-time.png" />
+<img width="700" src="./assets/document-at-a-time.png" />
 
 * The primary disadvantage of term-at-a-time is the memory required by the accumulator.
 
@@ -50,9 +50,9 @@ TODO: this is explained terribly
 
 * Here is pseudo-code from Seamus for Conjunctive processing:
 
-<img width="250" src="./assets/cp-document-at-a-time.png" />
+<img width="700" src="./assets/cp-document-at-a-time.png" />
 
-<img width="250" src="./assets/cp-term-at-a-time.png" />
+<img width="700" src="./assets/cp-term-at-a-time.png" />
 
 * No document that has a score less than the k<sup>th</sup> document is ever shown to the user. This score is called 𝜏 (the **Threshold**).
 

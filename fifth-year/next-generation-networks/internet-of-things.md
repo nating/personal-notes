@@ -114,13 +114,3 @@
 * **RAN** stands for Radio Access Network.
 
 * **LPWAN** is a technology that supports small messages with specific duty cycles.
-
-
-
-
-
-
-
-
-
-/
