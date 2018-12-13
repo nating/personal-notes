@@ -83,7 +83,7 @@ different perspective.
 
 * The algorithm for the PageRank of a page is:
 
-<img width="250" src="./assets/page-rank-formula.png" />
+<img width="700" src="./assets/page-rank-formula.png" />
 
 *where N is the number of pages, B<sub>u</sub> is the set of pages that point to u, and L<sub>v</sub> is the number of outgoing links from page v (not counting duplicate links).*
 

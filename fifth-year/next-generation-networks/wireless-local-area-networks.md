@@ -31,6 +31,56 @@
 
 * Radio is limited to certain frequency bands and is subject to a lot of interference.
 
+* **ISM** stands for Industrial, Scientific and Medical.
+
 * **Infrastructure Based** networks have access points. In **Ad-Hoc** networks, stations communicate directly with one and another.
 
-TODO ...
+* Applications of Infrastructure based networks are:
+  * Office-wide WLANs
+  * Hotspots
+
+* Applications of Ad-Hoc based networks are:
+  * Military / Combat environments
+  * Impromptu meetings
+  * Sensor Networks
+  * Vehicular Networks
+
+* Pros of **IEEE 802.11a**:
+  * Fastest Maximum speed (of a/b/g/no letter)
+  * Supports more simultaneous users
+  * Less interference from other users
+
+* Cons of **IEEE 802.11a**:
+  * Highest cost
+  * Shortest range signal
+  * More easily obstructed
+  * Not compatible with 802.11b/g
+
+* Pros of **IEEE 802.11b**:
+  * Lowest cost
+  * Longest range
+  * Not easily obstructed
+
+* Cons of **IEEE 802.11b**:
+  * Slowest data rates
+  * Other appliances may interfere in the same frequency band
+
+* Pros of **IEEE 802.11g**:
+  * Longest range
+  * Higher data rates than 802.11b
+  * Supports more simultaneous users
+  * Not easily obstructed
+
+* Cons of **IEEE 802.11g**:
+  * More expensive than 802.11b
+  * Other appliances may interfere in the same frequency band
+
+* **IEEE 802.11n** has a higher data rate by using MIMO (multiple input multiple output) techniques. It operates at 2.4GHz and/or 5GHz.
+
+* **IEEE 802.11ad** (**WiGig**) is next gen, with:
+  * Data throughput of 7Gbps
+  * 60GHz ISM band (large bandwidth and less interference)
+  * A range of only a few metres
+
+* Of *Disaster Aftermath*, *Airport Hotspot*, and *Vehicular Networks*, Ad-Hoc architecture is least indicated for Airport Hotspot. As Airport hotspot can easily rely on the
+support of an infrastructure,

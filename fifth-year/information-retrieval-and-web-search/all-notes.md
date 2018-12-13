@@ -278,7 +278,7 @@ different perspective.
 
 * The algorithm for the PageRank of a page is:
 
-<img width="250" src="./assets/page-rank-formula.png" />
+<img width="700" src="./assets/page-rank-formula.png" />
 
 *where N is the number of pages, B<sub>u</sub> is the set of pages that point to u, and L<sub>v</sub> is the number of outgoing links from page v (not counting duplicate links).*
 
@@ -453,11 +453,11 @@ different perspective.
 
 * Document-at-a-time query processing gets a score for each document, one at a time:
 
-<img width="250" src="./assets/document-at-a-time.png" />
+<img width="700" src="./assets/document-at-a-time.png" />
 
 * Term-at-a-time query processing gets a score for each document for each term, and then adds all those scores up:
 
-<img width="250" src="./assets/document-at-a-time.png" />
+<img width="700" src="./assets/document-at-a-time.png" />
 
 * The primary disadvantage of term-at-a-time is the memory required by the accumulator.
 
@@ -490,9 +490,9 @@ TODO: this is explained terribly
 
 * Here is pseudo-code from Seamus for Conjunctive processing:
 
-<img width="250" src="./assets/cp-document-at-a-time.png" />
+<img width="700" src="./assets/cp-document-at-a-time.png" />
 
-<img width="250" src="./assets/cp-term-at-a-time.png" />
+<img width="700" src="./assets/cp-term-at-a-time.png" />
 
 * No document that has a score less than the k<sup>th</sup> document is ever shown to the user. This score is called 𝜏 (the **Threshold**).
 
@@ -551,7 +551,7 @@ TODO: this is explained terribly
 
 * In VSM, a collection of *n* documents can be considered a matrix of *n* rows which represent documents and *t* columns which represent weights assigned to a term for a document.
 
-<img width="250" src="./assets/vector-space-model.png" />
+<img width="700" src="./assets/vector-space-model.png" />
 
 * The Vector Space Model can implement term weighting, ranking, and user feedback.
 
@@ -563,7 +563,7 @@ TODO: this is explained terribly
 
 * **Cosine Correlation** is the angle between two vectors:
 
-<img width="250" src="./assets/cosine-correlation.png" />
+<img width="700" src="./assets/cosine-correlation.png" />
 
 * **TF-IDF** stands for Term-Frequency - Inverse Document Frequency.
 
@@ -577,7 +577,7 @@ TODO: this is explained terribly
 
 **NOTE: To get the right calculations to match those in Seamus' notes, use 'ln()' on your calculator instead of 'log()'.**
 
-<img width="250" src="./assets/tf-idf.png" />
+<img width="700" src="./assets/tf-idf.png" />
 
 * VSM is typically used as a model of topical relevance.
 
@@ -628,7 +628,7 @@ TODO: I got lost at *Bayes* tbh
 
 * Here is the formula used by the Query Likelihood Retrieval model in using the Unigram Language Model:
 
-<img width="250" src="./assets/query-likelihood.png" />
+<img width="700" src="./assets/query-likelihood.png" />
 
 * A problem with the idea of query likelihood retrieval model is that words that don't occur in a document would have a probability of zero and if a single query term is not in a document, its score will be zero.
 
@@ -640,7 +640,7 @@ TODO: I got lost at *Bayes* tbh
 
 * The probability that the document language model gives to a term *t* which is in position *i* of query *q* is:
 
-<img width="250" src="./assets/document-language-model.png" />
+<img width="700" src="./assets/document-language-model.png" />
 
 *where α<sub>D</sub> is a coefficient controlling the probability assigned to unseen words.*
 
@@ -648,7 +648,7 @@ TODO: I got lost at *Bayes* tbh
 
 * Overall, the above smoothing techniques add up to the following formula which is known as the **Jelinek-Mercer Method**. This is an estimate of the probability of a term occurring in a document in *Query Likelihood Ranking with linear interpolation smoothing*.
 
-<img width="250" src="./assets/document-language-model.png" />
+<img width="700" src="./assets/document-language-model.png" />
 
 * Small values of ⋋ produce less smoothing.
 

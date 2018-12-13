@@ -5,6 +5,8 @@
 
 Next Generation Networks (CS4031 || CS7NS3) 2018
 
+## Notes
+
 * Week 1
   * [Introduction](https://github.com/nating/personal-notes/blob/master/fifth-year/next-generation-networks/introduction.md)
   * [Optical Transmission Technology](https://github.com/nating/personal-notes/blob/master/fifth-year/next-generation-networks/optical-transmission-technology.md)
@@ -41,3 +43,9 @@ Next Generation Networks (CS4031 || CS7NS3) 2018
   * [Traffic Models](https://github.com/nating/personal-notes/blob/master/fifth-year/next-generation-networks/traffic-models.md)
 
 [All my notes in one document](https://github.com/nating/personal-notes/blob/master/fifth-year/next-generation-networks/all-notes.md) (in case you want to `cmd+f` a term x)
+
+## Exam Attempts
+
+*Please note, these have not been done under exam conditions. These exam attempts have been done with no time limit in order to construct the best possible answer for the aid of future (and current lol x) students' learning.*
+
+[2018 Michaelmas Term Final Exam](https://github.com/nating/personal-notes/blob/master/fifth-year/next-generation-networks/all-notes.md)

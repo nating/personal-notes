@@ -21,7 +21,7 @@
 
 * **Discounted Cumulative Gain** (DCG) gives a value for how useful it is to add the next document in the retrieved documents. Relevance is graded e.g. from 0-3:
 
-<img width="250" src="./assets/discounted-cumulative-gain.png" />
+<img width="700" src="./assets/discounted-cumulative-gain.png" />
 
 *where reli is the graded relevance of document i.*
 
@@ -56,7 +56,7 @@
 
 * **Discounted Cumulative Gain** (DCG) gives a value for how useful it is to add the next document in the retrieved documents. Relevance is graded e.g. from 0-3:
 
-<img width="250" src="./assets/discounted-cumulative-gain.png" />
+<img width="700" src="./assets/discounted-cumulative-gain.png" />
 
 *where reli is the graded relevance of document i.*
 
