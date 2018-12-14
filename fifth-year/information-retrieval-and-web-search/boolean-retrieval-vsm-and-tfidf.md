@@ -48,7 +48,7 @@
 
 * **Cosine Correlation** is the angle between two vectors:
 
-<img width="700" src="./assets/cosine-correlation.png" />
+<img width="700" src="./assets/cosine-correllation.png" />
 
 * **TF-IDF** stands for Term-Frequency - Inverse Document Frequency.
 

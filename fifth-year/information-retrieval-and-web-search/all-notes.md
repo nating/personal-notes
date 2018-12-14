@@ -504,7 +504,7 @@ TODO: this is explained terribly
 
 * By using 𝜏', parts of inverted lists that will not generate a score above 𝜏' can be ignored.
 
-* In **Max Score**, a partial score is found for a common part of the query, e.g. scores for the word 'tree' are calculated first. Then 𝜏' is set as the k<sup>th</sup> lowest score from *the first three* documents that contain all the words.
+* In **Max Score**, a partial score is found for a common part of the query, e.g. scores for the word 'tree' are calculated first. Then 𝜏' is set as the k<sup>th</sup> lowest score from *the first k* documents that contain all the words.
 
 * **Early Termination** means not doing all of the processing that would usually be done, to save time.
 
@@ -563,7 +563,7 @@ TODO: this is explained terribly
 
 * **Cosine Correlation** is the angle between two vectors:
 
-<img width="700" src="./assets/cosine-correlation.png" />
+<img width="700" src="./assets/cosine-correllation.png" />
 
 * **TF-IDF** stands for Term-Frequency - Inverse Document Frequency.
 
