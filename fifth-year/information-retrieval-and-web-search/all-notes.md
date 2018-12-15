@@ -575,7 +575,7 @@ TODO: this is explained terribly
 
 * IDF is calculated with `idf = log(N/n<sub>k</sub>)`. *where N is the number of documents in the corpus, and n<sub>k</sub> is the number of documents that contain term k.*
 
-**NOTE: To get the right calculations to match those in Seamus' notes, use 'ln()' on your calculator instead of 'log()'.**
+**NOTE TO STUDENTS: To get the right calculations to match those in Seamus' notes, use 'ln()' on your calculator instead of 'log()'.**
 
 <img width="700" src="./assets/tf-idf.png" />
 
@@ -592,7 +592,7 @@ TODO: this is explained terribly
 
 * P(R|D) > P(NR|D) is known as a **Bayes Decision Rule** and a system that classifies documents this way is known as a **Bayes Classifier**.
 
-TODO: I got lost at *Bayes* tbh
+TODO: Didn't finish making notes on this slideset
 
 # Language Models
 
@@ -648,7 +648,7 @@ TODO: I got lost at *Bayes* tbh
 
 * Overall, the above smoothing techniques add up to the following formula which is known as the **Jelinek-Mercer Method**. This is an estimate of the probability of a term occurring in a document in *Query Likelihood Ranking with linear interpolation smoothing*.
 
-<img width="700" src="./assets/document-language-model.png" />
+TODO: Insert image
 
 * Small values of ⋋ produce less smoothing.
 

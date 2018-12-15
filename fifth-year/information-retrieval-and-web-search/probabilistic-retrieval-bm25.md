@@ -12,4 +12,4 @@
 
 * P(R|D) > P(NR|D) is known as a **Bayes Decision Rule** and a system that classifies documents this way is known as a **Bayes Classifier**.
 
-TODO: I got lost at *Bayes* tbh
+TODO: Didn't finish making notes on this slideset
