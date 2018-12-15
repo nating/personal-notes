@@ -4,5 +4,5 @@
 
 Introduction to Functional Programming (CS3016)
 
-* [4 years worth of Question Attempts](https://github.com/nating/personal-notes/blob/master/third-year/functional-programming/CS3016-exams.md)
+* [4 years worth of Question Attempts](https://github.com/nating/personal-notes/blob/master/third-year/functional-programming/CS3016-exams.hs)
 * [HOF Question walkthrough slides :)))) ;)](https://github.com/nating/personal-notes/blob/master/third-year/functional-programming/hof-2013-question-walkthrough-slides.md)
