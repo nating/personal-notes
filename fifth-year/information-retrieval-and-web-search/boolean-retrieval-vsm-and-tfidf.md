@@ -60,7 +60,7 @@
 
 * IDF is calculated with `idf = log(N/n<sub>k</sub>)`. *where N is the number of documents in the corpus, and n<sub>k</sub> is the number of documents that contain term k.*
 
-**NOTE: To get the right calculations to match those in Seamus' notes, use 'ln()' on your calculator instead of 'log()'.**
+**NOTE TO STUDENTS: To get the right calculations to match those in Seamus' notes, use 'ln()' on your calculator instead of 'log()'.**
 
 <img width="700" src="./assets/tf-idf.png" />
 

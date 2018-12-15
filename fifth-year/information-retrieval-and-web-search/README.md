@@ -17,3 +17,5 @@ Information Retrieval and Web Search (CS7IS3) 2018
 * [Evaluation](https://github.com/nating/personal-notes/blob/master/fifth-year/information-retrieval-and-web-search/evaluation.md)
 
 [All my notes in one document](https://github.com/nating/personal-notes/blob/master/fifth-year/information-retrieval-and-web-search/all-notes.md) (in case you want to `cmd+f` a term x)
+
+[Setting up Lucene x Maven without Eclipse](https://github.com/nating/personal-notes/blob/master/fifth-year/information-retrieval-and-web-search/maven-x-lucene.md)

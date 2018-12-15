@@ -55,7 +55,7 @@
 
 * Overall, the above smoothing techniques add up to the following formula which is known as the **Jelinek-Mercer Method**. This is an estimate of the probability of a term occurring in a document in *Query Likelihood Ranking with linear interpolation smoothing*.
 
-<img width="700" src="./assets/document-language-model.png" />
+TODO: Insert image
 
 * Small values of ⋋ produce less smoothing.
 
