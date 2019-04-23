@@ -3,6 +3,8 @@
 
 # Security & Privacy Question Compilation
 
+*This is a compilation of all the questions asked in Security and Privacy exams from 2008-2018 inclusive.**
+
 ## Q1 - Risk Analysis
 
 **These questions are all preceded by paragraphs of text describing a company's system which needs to have its risks analysed. The paragraphs that these questions refer to can be found here:**
