@@ -173,7 +173,7 @@ What are the three most likely (note: most likely, not most impactful) threats r
 
 #### Q3a)
 
-Outline your overall design for such a system (include a network diagram and describe how scheduling is handled), and state the security and privacy requirements the system must meet. **[15 marks]** (2018, 2017, 2016, 2015, 2014, 2013, 2012, ~2011, ~2010, ~2009)
+Outline your overall design for such a system (include a network diagram) (**and describe how scheduling is handled (2018)**), and state the security and privacy requirements the system must meet. **[15 marks]** (2018, 2017, 2016, 2015, 2014, 2013, 2012, ~2011, ~2010, ~2009)
 
 #### Q3b)
 
@@ -254,15 +254,15 @@ How will DNSSEC deployment impact on registrars, registries and applications? **
 
 You are a senior software developer in a large software company tasked to produce a security review process for a new product development group that has just been established. The group will be developing web services based applications for the healthcare market, including handling of sensitive (patient) data. The security review process will be followed by designers and developers. You cannot expect that all people in the group will be familiar with security, and they will be constant under time-pressure to produce product deliverables. For the purposes of the answer, you can assume whatever general software development methodology you like is to be used.
 
-#5a)
+# 5a)
 
 Outline the security review process you would initially suggest, and how it fits with the general software development methodology you select. **[15 marks]**
 
-#5b)
+# 5b)
 
 How would you get from your initial suggestion for a process to a final, signed-off security process to be followed by the group? Describe the actions you would take and the interactions with others you would expect to occur before you get that final sign-off. **[10 marks]**
 
-#5c)
+# 5c)
 
 How would the security process be maintained over time in order to handle changes to the group's activities, the legal and the business environment? **[8 marks]**
 
